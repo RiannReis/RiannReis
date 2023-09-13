@@ -18,7 +18,7 @@
 #### 📫 How to reach me:
 
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto:ooriannsilva@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)]([https://linkedin.com/in/arthurfiorette](https://www.linkedin.com/in/riann-dos-reis-4b7507282/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)]([https://linkedin.com/in/arthurfiorette](https://www.linkedin.com/in/riann-dos-reis-4b7507282/)
 
 <br />
 <div align="center">
