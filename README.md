@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riann</h1>
 
-<div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=riannreis&show_icons=true&theme=transparent&locale=en&layout=compact" alt="riannreis" /></div>
-
-
-<div>
- <h3> 🌱 I’m currently learning: </h3
+<div align="left">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=riannreis&show_icons=true&theme=transparent&locale=en&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff" alt="riannreis" />
+ 
+ <h3> 🌱 I’m currently learning: </h3>
    <ul>
     <li><b>Android development with Kotlin</b></li>
     <li><b>Back-end development with Java</b></li>
@@ -12,7 +11,8 @@
     <li><b>Algorithms and Data Structures</b></li>
    </ul>
    
- 
+</div>
+
 <br />
 
 #### 📫 How to reach me:
@@ -31,14 +31,14 @@
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-black?style=flat-square&logo=android-studio)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![HTML5](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3)
+![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3&logoColor=2d72e9)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongoDB)
 ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL)
-![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=SQLite)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=SQLite&logoColor=60a4f7)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
