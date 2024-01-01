@@ -42,6 +42,7 @@
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Godot](https://img.shields.io/badge/Godot-black?style=flat-square&logo=godotengine&logoColor=#478CBF)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/RiannReis)
 </div>
