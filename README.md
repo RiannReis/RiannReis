@@ -3,12 +3,13 @@
 <div align="left">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=riannreis&show_icons=true&theme=transparent&locale=en&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff" alt="riannreis" />
  
- <h3> 🌱 I’m currently learning: </h3>
+ <h3> 🌱 ~ Still on maintence </h3>
    <ul>
     <li><b>Android development with Kotlin</b></li>
     <li><b>Back-end development with Java</b></li>
     <li><b>Web development</b></li>
     <li><b>Algorithms and Data Structures</b></li>
+    <li><b>And more...</b></li>
    </ul>
    
 </div>
@@ -48,5 +49,3 @@
 </div>
 
 <br />
-
-~ Still on maintence
